@@ -1,0 +1,1 @@
+ D:\\work\\Django\\Azkar\\azkar_frontend\\wazker\\.dart_tool\\flutter_build\\6794f06f4238327418d9875f651dc6c1\\native_assets.yaml: 
